@@ -1,0 +1,10 @@
+ORG 0x400	;
+MOV AX, 0x87A5	;
+MOV BX, 0x978B	 ;
+ADD AX, 0x03	 ;
+SUB BX, 0x02	;
+MOV CX, AX	;
+ADD CX, BX	;
+MOV DX, AX	;
+SUB DX, BX	; 
+INT3	;
