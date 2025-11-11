@@ -4,3 +4,4 @@ This repository contains assembly programs written for the 8086 microprocessor t
 | lab | title | description |
 |---|---|---|
 | 1 | Add and subtract | In this lab, I code the trainer kit to do adding and subtracting from the AX, BX, CX and DX as general-purpose data registers |
+| 2 | memory | Increase and decrease AX and BX, exchange the content of AX and BX, then move them into memory |
